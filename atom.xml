@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://cssjpn.github.io/example-blog/"/>
-  <updated>2021-05-11T07:31:41.635Z</updated>
+  <updated>2021-05-13T08:36:57.588Z</updated>
   <id>https://cssjpn.github.io/example-blog/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hello World</title>
+    <link href="https://cssjpn.github.io/example-blog/information/helloworld/"/>
+    <id>https://cssjpn.github.io/example-blog/information/helloworld/</id>
+    <published>2020-12-21T06:00:00.000Z</published>
+    <updated>2021-05-13T08:36:57.588Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello World!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hello World!&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Information" scheme="https://cssjpn.github.io/example-blog/tags/Information/"/>
+    
+      <category term="Bug" scheme="https://cssjpn.github.io/example-blog/tags/Bug/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Example article</title>
     <link href="https://cssjpn.github.io/example-blog/information/test/"/>
     <id>https://cssjpn.github.io/example-blog/information/test/</id>
     <published>2020-12-21T06:00:00.000Z</published>
-    <updated>2021-05-11T07:31:41.635Z</updated>
+    <updated>2021-05-13T08:36:57.588Z</updated>
     
     <content type="html"><![CDATA[<p>hello, world!</p>]]></content>
     

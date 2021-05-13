@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cssjpn.github.io/example-blog/information/helloworld/</loc>
+    
+    <lastmod>2021-05-13T08:36:57.588Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://cssjpn.github.io/example-blog/information/test/</loc>
     
-    <lastmod>2021-05-11T07:31:41.635Z</lastmod>
+    <lastmod>2021-05-13T08:36:57.588Z</lastmod>
     
   </url>
   
